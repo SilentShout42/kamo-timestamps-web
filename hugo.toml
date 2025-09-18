@@ -36,7 +36,7 @@ pagination.pagerSize = 5
   showLastUpdated = true
   enableGitInfo = true
 
-  favicon = "favicon.png"
+  cover = "DetectiveMascot.png"
 
    [languages.en.menu]
     [[languages.en.menu.main]]
