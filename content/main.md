@@ -29,7 +29,7 @@ Editing or deleting the message that created a tag will edit or delete the tag i
 
 Timing adjustments via Korotagger are less important for Kamo Timestamps, because we do a second pass on everyone's timestamps using [ts][ts] to adjust timing and descriptions before the final timestamps are posted.
 
-For additional Korotagger commands, check out the [Korotagger manual][korotagger_manual].
+Check out the [Korotagger manual][korotagger_manual] for additional Korotagger commands and info.
 
 ## One-time configuration - for admins
 You only need to follow these steps to setup Korotagger on your own Discord server. If you join us in the Kamogumi Lounge, you can skip these steps!
