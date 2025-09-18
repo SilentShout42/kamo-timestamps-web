@@ -42,7 +42,7 @@ pagination.pagerSize = 5
     [[languages.en.menu.main]]
       identifier = "main"
       name = "Main"
-      url = "/main"
+      url = "/posts/main"
       weight = 1
     [[languages.en.menu.main]]
       identifier = "links"
