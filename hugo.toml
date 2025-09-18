@@ -2,3 +2,7 @@ baseURL = 'https://timestamps.oyasumi99.com/'
 languageCode = 'en-us'
 title = 'Kamo Timestamps'
 theme = 'terminal'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
