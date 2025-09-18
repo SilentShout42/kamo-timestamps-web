@@ -38,6 +38,18 @@ pagination.pagerSize = 5
 
   favicon = "favicon.png"
 
+   [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "main"
+      name = "Main"
+      url = "/main"
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "links"
+      name = "Links"
+      url = "/links"
+      weight = 2
+
   [languages.en.params.logo]
     logoText = "Kamo Timestamps"
 

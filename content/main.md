@@ -1,13 +1,7 @@
 +++
 title = "Hi hi!"
 date = "2025-09-17T22:12:14-06:00"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = "Silent Shout"
-authorTwitter = "SilentShout42" #do not include @
 showFullContent = true
-readingTime = false
-hideComments = false
-Toc = false
 +++
 
 Kamo Timestamps is a group of Kamogumis that creates timestamps for Kanna's streams. Doing this makes it easier for others to find the many funny, interesting, sweet, sassy, and TSKR moments in each Kanna stream.
