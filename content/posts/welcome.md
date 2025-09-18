@@ -10,7 +10,7 @@ hideComments = false
 Toc = false
 +++
 
-Kamo Timestamps is a group of Kamogumis that create timestamps for Kanna's streams. Doing this makes it easier for others to find the many funny, interesting, sweet, sassy, and TSKR moments in each Kanna stream.
+Kamo Timestamps is a group of Kamogumis that creates timestamps for Kanna's streams. Doing this makes it easier for others to find the many funny, interesting, sweet, sassy, and TSKR moments in each Kanna stream.
 
 If you're interested in helping out, or just interested in the process: read on!
 
