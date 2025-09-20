@@ -11,16 +11,19 @@ If you're interested in helping out, or just interested in the process: read on!
 
 # Kamo Squad timestamping
 We create timestamps in two passes:
-1. Using Korotagger in the `#timestamps` channel on the [Kamogumi Lounge][kamogumi_lounge] Discord server during Kanna streams.
+1. Using Korotagger in the [#timestamps][lounge_timestamps] channel on the [Kamogumi Lounge][kamogumi_lounge] Discord server during Kanna streams.
 2. Using the [ts userscript][ts] to adjust timing and edit descriptions.
 
 [kamogumi_lounge]: https://discord.gg/7YPpm6tPu7
+[lounge_timestamps]: https://discord.com/channels/1266167980954353806/1418421870641942528
 [ts]: https://github.com/silentshout42/ts
 
 # Using Korotagger
 
 ## Timestamping - for every Kamo
 When a stream begins, you'll see an `Active stream set` message with the stream URL. After this, you can begin using other commands to create and adjust timestamps for the current live stream.
+
+If this doesn't work automatically, you can use `!stream <stream URL>` to manually set the given stream as active. Run `!yt_start` to pull the proper stream start time from YouTube after manually setting a stream as active.
 
 `!t`/`!tag <free text>` to create a new timestamp. Korotagger will acknowledge this command with two reacts: ⭐️ can be used by anyone to upvote a tag, and ❌ can be used by the tag creator to remove a tag.
 
