@@ -33,18 +33,14 @@ title = 'Links'
 
 #  Fanart
 * Folders
+  * [Catling Gun](https://drive.google.com/drive/folders/1Nx-0kEhZ-mofprCxuqqUIJQAEOM1o-Th)
   * [Nova][community_skeb_nova]
   * [Rakko][community_skeb_rakko]
   * [ScrubLord][community_skeb_scrub]
   * [Thaddeus][community_skeb_thad]
 * Individual works by commissioner / artist
-  * [Catling Gun](https://x.com/CatlingGun)
-    * [Cold Case](https://drive.google.com/drive/folders/1jPSWFUOMVS5oxIMsrIHwc9lK_8ADf-G2)
-    * [Melting Heat Kanna](https://drive.google.com/drive/folders/1VkZCCsC-DEpyQosRAnD7dDk1ci2KngoI)
-    * [Norwegian Cafe](https://drive.google.com/drive/folders/1lfMyvK2xUQptaVLPNXJBaKgXws1omwu3)
-    * [Kanna Explores Turkiye](https://drive.google.com/drive/folders/1-qu93EUpD4m-TZ1ZerRswhqAAIvwuoDo)
   * [Ikky](https://x.com/IkkyAnomaly)
-    * [Bikini Kanna](https://drive.google.com/drive/folders/1eJU9Ohyfu1V9VUysmIlC4FLcm4ImKAp1) by [@surippa1010](https://x.com/surippa1010)
+    * [Bikini Kanna](https://drive.google.com/drive/folders/1eJU9Ohyfu1V9VUysmIlC4FLcm4ImKAp1) by [surippa1010](https://x.com/surippa1010)
     * [Kanna and Kamo](https://drive.google.com/drive/folders/1D6QWPdlKjnTW7-UL78AFucqG2IX2Tgm-) by [tr91641m](https://x.com/tr91641m)
 
 [community_discord_relink]: https://discord.gg/pxcutiefans
