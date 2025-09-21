@@ -1,0 +1,38 @@
+baseURL: https://timestamps.oyasumi99.com/
+languageCode: en-us
+title: Kamo Timestamps
+theme: terminal
+baseurl: /
+pagination:
+  pagerSize: 5
+markup:
+  highlight:
+    noClasses: false
+params:
+  contentTypeName: posts
+  showMenuItems: 2
+  showLanguageSelector: false
+  fullWidthTheme: false
+  centerTheme: true
+  autoCover: true
+  showLastUpdated: true
+  enableGitInfo: true
+  cover: DetectiveMascot.png
+languages:
+  en:
+    menu:
+      main:
+      - identifier: main
+        name: Main
+        url: /posts/main
+        weight: 1
+      - identifier: links
+        name: Links
+        url: /links
+        weight: 2
+    params:
+      logo:
+        logoText: Kamo Timestamps
+caches:
+  images:
+    dir: :cacheDir/images
