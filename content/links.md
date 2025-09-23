@@ -38,6 +38,7 @@ title = 'Links'
   * [Rakko][community_skeb_rakko]
   * [ScrubLord][community_skeb_scrub]
   * [Thaddeus][community_skeb_thad]
+  * [Tanuki][community_skeb_tanuki]
 * Individual works by commissioner / artist
   * [Ikky](https://x.com/IkkyAnomaly)
     * [Bikini Kanna](https://drive.google.com/drive/folders/1eJU9Ohyfu1V9VUysmIlC4FLcm4ImKAp1) by [surippa1010](https://x.com/surippa1010)
@@ -49,3 +50,4 @@ title = 'Links'
 [community_skeb_nova]: https://drive.google.com/drive/u/0/folders/1dZBVLHzgkSN2foE0hIdf_E3B4Rp5AbPg
 [community_skeb_scrub]: https://drive.google.com/drive/u/0/folders/1Tqq5nRDPNvi5q1c_zaXftYosuy_P_LPb
 [community_skeb_rakko]: https://drive.google.com/drive/folders/15pD8kvclvNVTDonfmW8s90eb5B822l5J
+[community_skeb_tanuki]: https://drive.google.com/drive/folders/1JTStYSqJN3liHM9Nml0N2T4eK7Ailf59
