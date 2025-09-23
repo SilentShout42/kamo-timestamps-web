@@ -24,15 +24,19 @@ languages:
       main:
       - identifier: main
         name: Main
-        url: /posts/main
+        url: /
         weight: 1
       - identifier: links
         name: Links
         url: /links
         weight: 2
-    params:
-      logo:
-        logoText: Kamo Timestamps
+    # params:
+    #   logo:
+    #     logoText: Kamo Timestamps
 caches:
   images:
     dir: :cacheDir/images
+
+module:
+  imports:
+  - path: github.com/imfing/hextra

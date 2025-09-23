@@ -1,8 +1,9 @@
 +++
 date = '2025-09-18T00:04:48-06:00'
 title = 'Links'
+aliases = '/links'
 +++
-# Official
+## Official
 * YouTube: [Channel][kanna_channel], [Live][kanna_live], [Uploads][kanna_uploads]
 * Compilation videos: [Duck, Duck, Kanna!][kanna_clips]
 * Socials: [Twitter][kanna_twitter], [Patreon][kanna_patreon], [Marshmallow Q&A][kanna_maro], [BlueSky][kanna_bsky]
@@ -10,7 +11,7 @@ title = 'Links'
 * Donation: [Streamlabs][kanna_streamlabs]
 * [Twitch][kanna_twitch]
 * [Kamo's Folder][kanna_kamos_folder]: Kanna's reference sheet, wallpapers, tons of PNGs, cat pics, and more!
-* [Karaoke song list](https://www.streamersonglist.com/t/kannayanagi/songs)
+* [Karaoke song list][kanna_songlist]
 
 [kanna_channel]: https://www.youtube.com/channel/UClxj3GlGphZVgd1SLYhZKmg
 [kanna_live]: https://www.youtube.com/channel/UClxj3GlGphZVgd1SLYhZKmg/live
@@ -27,11 +28,11 @@ title = 'Links'
 [kanna_maro]: https://marshmallow-qa.com/n76bewc55j62p4n
 [kanna_songlist]: https://www.streamersonglist.com/t/kannayanagi/songs
 
-# Community
+## Community
 * [Kanna Twitter Feed](https://x.com/search?q=(from%3A%40KannaPixelLink)%20OR%20(%23KannaYanagi%20OR%20%23KamoTime%20OR%20%23KannOfPaint%20OR%20%23KannaCases%20OR%20%23HumuHumor%20OR%20%23Kamogumi%20OR%20%23KannaBirthday2024%20OR%20%23KamoCooking)&src=typed_query&f=live): All Kanna hashtags by latest
 * Discord: [Re:Link Fan Server][community_discord_relink], [Kamogumi Lounge][community_discord_lounge]
 
-#  Fanart
+## Fanart
 * Folders
   * [Catling Gun](https://drive.google.com/drive/folders/1Nx-0kEhZ-mofprCxuqqUIJQAEOM1o-Th)
   * [Nova][community_skeb_nova]
