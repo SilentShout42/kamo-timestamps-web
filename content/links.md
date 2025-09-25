@@ -10,7 +10,7 @@ title = 'Links'
 * Donation: [Streamlabs][kanna_streamlabs]
 * [Twitch][kanna_twitch]
 * [Kamo's Folder][kanna_kamos_folder]: Kanna's reference sheet, wallpapers, tons of PNGs, cat pics, and more!
-* [Karaoke song list](https://www.streamersonglist.com/t/kannayanagi/songs)
+* [Karaoke song list](kanna_songlist)
 
 [kanna_channel]: https://www.youtube.com/channel/UClxj3GlGphZVgd1SLYhZKmg
 [kanna_live]: https://www.youtube.com/channel/UClxj3GlGphZVgd1SLYhZKmg/live
@@ -32,17 +32,13 @@ title = 'Links'
 * Discord: [Re:Link Fan Server][community_discord_relink], [Kamogumi Lounge][community_discord_lounge]
 
 #  Fanart
-* Folders
-  * [Catling Gun](https://drive.google.com/drive/folders/1Nx-0kEhZ-mofprCxuqqUIJQAEOM1o-Th)
-  * [Nova][community_skeb_nova]
-  * [Rakko][community_skeb_rakko]
-  * [ScrubLord][community_skeb_scrub]
-  * [Thaddeus][community_skeb_thad]
-  * [Tanuki][community_skeb_tanuki]
-* Individual works by commissioner / artist
-  * [Ikky](https://x.com/IkkyAnomaly)
-    * [Bikini Kanna](https://drive.google.com/drive/folders/1eJU9Ohyfu1V9VUysmIlC4FLcm4ImKAp1) by [surippa1010](https://x.com/surippa1010)
-    * [Kanna and Kamo](https://drive.google.com/drive/folders/1D6QWPdlKjnTW7-UL78AFucqG2IX2Tgm-) by [tr91641m](https://x.com/tr91641m)
+* [Catling Gun](https://drive.google.com/drive/folders/1Nx-0kEhZ-mofprCxuqqUIJQAEOM1o-Th)
+* [Nova][community_skeb_nova]
+* [Rakko][community_skeb_rakko]
+* [ScrubLord][community_skeb_scrub]
+* [Thaddeus][community_skeb_thad]
+* [Tanuki][community_skeb_tanuki]
+* [Ikky][community_skeb_ikky]
 
 [community_discord_relink]: https://discord.gg/pxcutiefans
 [community_discord_lounge]: https://discord.gg/7YPpm6tPu7
@@ -51,3 +47,4 @@ title = 'Links'
 [community_skeb_scrub]: https://drive.google.com/drive/u/0/folders/1Tqq5nRDPNvi5q1c_zaXftYosuy_P_LPb
 [community_skeb_rakko]: https://drive.google.com/drive/folders/15pD8kvclvNVTDonfmW8s90eb5B822l5J
 [community_skeb_tanuki]: https://drive.google.com/drive/folders/1JTStYSqJN3liHM9Nml0N2T4eK7Ailf59
+[community_skeb_ikky]: https://drive.google.com/drive/folders/1amhZnHN0lsu7uT-iWr0DC9JeOhq3wn4g
