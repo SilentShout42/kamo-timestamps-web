@@ -32,6 +32,7 @@ title = 'Links'
 * Discord: [Re:Link Fan Server][community_discord_relink], [Kamogumi Lounge][community_discord_lounge]
 
 #  Fanart
+Thank you to all the Kamos who create, commission, and share Kanna art!
 * [Catling Gun](https://drive.google.com/drive/folders/1Nx-0kEhZ-mofprCxuqqUIJQAEOM1o-Th)
 * [Nova][community_skeb_nova]
 * [Rakko][community_skeb_rakko]
